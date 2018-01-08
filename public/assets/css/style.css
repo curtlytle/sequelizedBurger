@@ -1,0 +1,36 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.mainrow {
+    background-color: #f8efc0;
+    padding: 15px;
+}
+
+.burger {
+    padding: 2px
+}
+
+.eatburger {
+    background-color: white;
+}
+
+.burgereaten {
+    background-color: cornsilk;
+}
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}

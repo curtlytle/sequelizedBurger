@@ -1,0 +1,27 @@
+<div class="row burger">
+    {{#if devoured}}
+    <div class="col-md-7 eatburger">
+        {{burger_name}}
+    </div>
+
+    <div class="col-md-4">
+        <button type="button" class="change-devoured btn btn-primary btn-xs" data-id="{{id}}" data-newdevoured="{{devoured}}">
+            Devour It!
+        </button>
+    </div>
+    <div class="col-md-1">
+    </div>
+    {{else}}
+        <div class="col-md-7 burgereaten">
+            {{id}}. {{burger_name}}
+        </div>
+
+        <div class="col-md-4">
+            <button type="button" class="change-devoured btn btn-info btn-xs" data-id="{{id}}" data-newdevoured="{{devoured}}">
+                Put Back!
+            </button>
+        </div>
+        <div class="col-md-1">
+        </div>
+    {{/if}}
+</div>
