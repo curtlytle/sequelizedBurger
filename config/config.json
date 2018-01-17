@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "appuser",
-    "password": "goofy1229",
-    "database": "seq_burgers_db",
-    "host": "localhost",
+    "username": "tk5hwiwsrw9pkk96",
+    "password": "whfo28q8xwnn097w",
+    "database": "b7wyd287gipkfg7c",
+    "host": "s54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "a2refqsrcxmllsx0",
-    "password": "rj4bxidfcphe5x5s",
-    "database": "tkks00m55hwc3ush",
-    "host": "y06qcehxdtkegbeb.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "username": "tk5hwiwsrw9pkk96",
+    "password": "whfo28q8xwnn097w",
+    "database": "b7wyd287gipkfg7c",
+    "host": "s54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
