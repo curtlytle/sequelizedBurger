@@ -2,7 +2,7 @@
   "development": {
     "username": "appuser",
     "password": "goofy1229",
-    "database": "burgers_db",
+    "database": "seq_burgers_db",
     "host": "localhost",
     "dialect": "mysql"
   },
